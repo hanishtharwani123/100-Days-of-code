@@ -1,4 +1,3 @@
-// 29. Group Anagrams
 #include <iostream>
 #include <vector>
 #include <string>
@@ -7,7 +6,7 @@
 
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+    std::vector<std::vector<std::string>> groupAnagrams(std::vector<std::string>& strs) {
         // Create a hash map to store the anagrams
         std::unordered_map<std::string, std::vector<std::string>> anagramMap;
 
