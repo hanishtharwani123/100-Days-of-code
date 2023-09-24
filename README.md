@@ -1,4 +1,4 @@
-# 100 Days of Coding Challenge
+# 100 Days of Coding Challeng
 
 Welcome to my 100 Days of Coding Challenge repository! In this challenge, I will be focusing on improving my coding skills and mastering Data Structures and Algorithms (DSA) using C++. Each day, I will solve a coding problem or implement a DSA concept and upload the solution as a single CPP file.
 
